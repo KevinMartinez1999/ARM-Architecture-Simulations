@@ -12,7 +12,8 @@ decode_width = ['2', '4', '8', '16'] # CPU decode width
 ALU_per_core = ['2', '4', '8', '16'] # Number of execution units for integer ALU instructions
 branch_pred = ['0', '1', '2', '10'] # Branch predictor type
 
-def simulate_combination(i, j, k, x, y):
+def simulate_combination(params, lock):
+    i, j, k, x, y = params
     # Run gem5 with the current combination of cache sizes
     command = "gem5/build/X86/gem5.opt gem5/configs/learning_gem5/part1/prueba1.py --l3_size='{}' --l2_size='{}' --decode_width='{}' --ALU_per_core='{}' --branch_pred='{}'".format(i, j, k, x, y)
     result = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
@@ -32,6 +33,6 @@ if __name__ == "__main__":
     pool = multiprocessing.Pool(processes=num_cores) # Create a multiprocessing Pool
     # Generate all possible combinations of parameters
     parameter_combinations = [(i, j, k, x, y) for i in l3_cache for j in l2_cache for k in decode_width for x in ALU_per_core for y in branch_pred]
-    pool.starmap(simulate_combination, parameter_combinations) # Execute simulations in parallel
+    pool.starmap(simulate_combination, [(params, lock) for params in parameter_combinations])
     pool.close() # Close the pool
     pool.join() # Combine the results
