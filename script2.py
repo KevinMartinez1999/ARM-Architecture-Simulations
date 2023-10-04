@@ -1,7 +1,6 @@
 import multiprocessing # Import the multiprocessing module for parallel processing
 import subprocess # Import the subprocess module to run shell commands
-import os # Import the os module to interact with the operating system
-import threading # Import the threading module to run multiple threads
+import shutil # Import the shutil module to move files
 
 l3_cache = ['2MB', '4MB', '8MB', '16MB'] # Shared L3 cache size
 l2_cache = ['256kB', '512kB', '1MB', '2MB'] # Unified L2 cache size
@@ -19,13 +18,12 @@ def simulate_combination(params, lock):
     result = subprocess.run(command, shell=True, check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
 
     with lock:
-        # Move the stats.txt file to another directory
-        dir = 'm5out/'
-        for filename in os.listdir(dir):
-            if filename.endswith('.txt'):
-                # Copy file to another directory
-                path = os.path.join(dir, filename)
-                os.rename(path, 'DB_stats/sim_l3_cache={}_l2_cache={}_decode_width={}_ALU_per_core={}_branch_pred={}.txt'.format(i, j, k, x, y))
+        # Copy the stats.txt file to another directory
+        dir = 'm5out/stats.txt' # Path to the stats.txt file
+        new_dir = 'DB_stats/sim_l3_cache={}_l2_cache={}_decode_width={}_ALU_per_core={}_branch_pred={}.txt'.format(i, j, k, x, y) # Path to the new stats.txt file
+        shutil.copy(dir, new_dir) # Copy the stats.txt file to the new directory
+    
+    return
 
 if __name__ == "__main__":
     num_cores = 4  # Set the number of CPU cores to utilize
