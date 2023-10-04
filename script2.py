@@ -24,7 +24,8 @@ def simulate_combination(params, lock):
     i, j, k, x, y = params
     # Run gem5 with the current combination of cache sizes
     command = (
-        "gem5/build/X86/gem5.opt gem5/configs/learning_gem5/part1/prueba1.py "
+        "gem5/build/ARM/gem5.fast gem5/configs/learning_gem5/part4/CortexA76.py "
+        "--cmd=gem5/tests/test-progs/cortex/bin/arm/linux/hola/hello "
         "--l3_size='{}' "
         "--l2_size='{}' "
         "--decode_width='{}' "
