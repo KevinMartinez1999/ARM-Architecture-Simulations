@@ -24,7 +24,7 @@ if not stats_files or not config_files:
 
 cont1 = 0
 cont2 = 0
-
+'''
 for stats_file in stats_files:
     base_name = os.path.splitext(stats_file)[0]; s_file = escape_equal_sign(stats_file)
     config_file = "{}_config.json".format(base_name); c_file = escape_equal_sign(config_file)
@@ -48,20 +48,18 @@ for stats_file in stats_files:
         print("Error al mover el archivo {} a la carpeta log_results/{}/xml_files/".format(xml_output_file, TYPE_OF_SIMULATION))
     cont1 += 1
     print("XML file {} of {} created.".format(cont1, len(stats_files)))
-
+'''
 print("------------------------------------------------")
 xml_dir = "log_results/{}/xml_files".format(TYPE_OF_SIMULATION)
 for filename in os.listdir(xml_dir):
     if filename.endswith(".xml"):
+        base = os.path.splitext(filename)[0]; base = escape_equal_sign(base)
         filename = escape_equal_sign(filename)
-        base = base_name.replace("_stats", ""); base = escape_equal_sign(base)
         command = "./mcpat-master/mcpat -infile log_results/{}/xml_files/{} > log_results/{}/{}.log".format(TYPE_OF_SIMULATION, filename, TYPE_OF_SIMULATION, base)
-        
         try:
             _ = subprocess.run(command, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
         except:
             print("Error al ejecutar el comando: {}".format(command))
-        
         cont2 += 1
         print("Log file {} of {} created.".format(cont2, len(stats_files)))
 
