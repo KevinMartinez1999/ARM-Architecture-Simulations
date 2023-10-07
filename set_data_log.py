@@ -35,7 +35,7 @@ def get_xml_files(stats_file):
         _ = subprocess.run(command2, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     except:
         print("Error al mover el archivo {} a la carpeta log_results/{}/xml_files/".format(xml_output_file, TYPE_OF_SIMULATION))
-    #run_mcpat(base_name)
+    run_mcpat(base_name)
 
 def run_mcpat(base_name):
     xml_dir = "log_results/{}/xml_files".format(TYPE_OF_SIMULATION)
