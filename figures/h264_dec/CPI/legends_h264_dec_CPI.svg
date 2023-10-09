@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2023-10-08T16:02:11.810314</dc:date>
+    <dc:date>2023-10-08T20:57:39.408667</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -49,7 +49,7 @@ L 31.2 23.798437
 L 31.2 16.798437 
 L 11.2 16.798437 
 z
-" style="fill: #ff7f50; stroke: #ff7f50; stroke-linejoin: miter"/>
+" style="fill: #a52a2a; stroke: #a52a2a; stroke-linejoin: miter"/>
     </g>
     <g id="text_1">
      <!-- 0_l2_cache=128kB, dec_width=1, num_ALU=16 -->
@@ -603,7 +603,7 @@ L 31.2 38.754687
 L 31.2 31.754687 
 L 11.2 31.754687 
 z
-" style="fill: #00ff7f; stroke: #00ff7f; stroke-linejoin: miter"/>
+" style="fill: #00bfff; stroke: #00bfff; stroke-linejoin: miter"/>
     </g>
     <g id="text_2">
      <!-- 1_l2_cache=128kB, dec_width=1, num_ALU=2 -->
@@ -656,7 +656,7 @@ L 31.2 53.710937
 L 31.2 46.710937 
 L 11.2 46.710937 
 z
-" style="stroke: #000000; stroke-linejoin: miter"/>
+" style="fill: #008080; stroke: #008080; stroke-linejoin: miter"/>
     </g>
     <g id="text_3">
      <!-- 2_l2_cache=128kB, dec_width=1, num_ALU=4 -->
@@ -730,7 +730,7 @@ L 31.2 68.667187
 L 31.2 61.667187 
 L 11.2 61.667187 
 z
-" style="fill: #808080; stroke: #808080; stroke-linejoin: miter"/>
+" style="fill: #00ff7f; stroke: #00ff7f; stroke-linejoin: miter"/>
     </g>
     <g id="text_4">
      <!-- 3_l2_cache=128kB, dec_width=1, num_ALU=8 -->
@@ -817,7 +817,7 @@ L 31.2 83.623437
 L 31.2 76.623437 
 L 11.2 76.623437 
 z
-" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
+" style="fill: #ff7f50; stroke: #ff7f50; stroke-linejoin: miter"/>
     </g>
     <g id="text_5">
      <!-- 4_l2_cache=128kB, dec_width=2, num_ALU=16 -->
@@ -871,7 +871,7 @@ L 31.2 98.579687
 L 31.2 91.579687 
 L 11.2 91.579687 
 z
-" style="fill: #0000ff; stroke: #0000ff; stroke-linejoin: miter"/>
+" style="fill: #87ceeb; stroke: #87ceeb; stroke-linejoin: miter"/>
     </g>
     <g id="text_6">
      <!-- 5_l2_cache=128kB, dec_width=2, num_ALU=2 -->
@@ -951,7 +951,7 @@ L 31.2 113.535937
 L 31.2 106.535937 
 L 11.2 106.535937 
 z
-" style="fill: #32cd32; stroke: #32cd32; stroke-linejoin: miter"/>
+" style="fill: #ff0000; stroke: #ff0000; stroke-linejoin: miter"/>
     </g>
     <g id="text_7">
      <!-- 6_l2_cache=128kB, dec_width=2, num_ALU=4 -->
@@ -1004,7 +1004,7 @@ L 31.2 128.492187
 L 31.2 121.492187 
 L 11.2 121.492187 
 z
-" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
+" style="fill: #90ee90; stroke: #90ee90; stroke-linejoin: miter"/>
     </g>
     <g id="text_8">
      <!-- 7_l2_cache=128kB, dec_width=2, num_ALU=8 -->
@@ -1069,7 +1069,7 @@ L 31.2 143.448437
 L 31.2 136.448437 
 L 11.2 136.448437 
 z
-" style="fill: #006400; stroke: #006400; stroke-linejoin: miter"/>
+" style="fill: #d3d3d3; stroke: #d3d3d3; stroke-linejoin: miter"/>
     </g>
     <g id="text_9">
      <!-- 8_l2_cache=128kB, dec_width=4, num_ALU=16 -->
@@ -1123,7 +1123,7 @@ L 31.2 158.404687
 L 31.2 151.404687 
 L 11.2 151.404687 
 z
-" style="fill: #ffff00; stroke: #ffff00; stroke-linejoin: miter"/>
+" style="fill: #a9a9a9; stroke: #a9a9a9; stroke-linejoin: miter"/>
     </g>
     <g id="text_10">
      <!-- 9_l2_cache=128kB, dec_width=4, num_ALU=2 -->
@@ -1208,7 +1208,7 @@ L 31.2 173.360937
 L 31.2 166.360937 
 L 11.2 166.360937 
 z
-" style="fill: #191970; stroke: #191970; stroke-linejoin: miter"/>
+" style="fill: #ff69b4; stroke: #ff69b4; stroke-linejoin: miter"/>
     </g>
     <g id="text_11">
      <!-- 10_l2_cache=128kB, dec_width=4, num_ALU=4 -->
@@ -1262,7 +1262,7 @@ L 31.2 188.317187
 L 31.2 181.317187 
 L 11.2 181.317187 
 z
-" style="fill: #800080; stroke: #800080; stroke-linejoin: miter"/>
+" style="fill: #fffacd; stroke: #fffacd; stroke-linejoin: miter"/>
     </g>
     <g id="text_12">
      <!-- 11_l2_cache=128kB, dec_width=4, num_ALU=8 -->
@@ -1316,7 +1316,7 @@ L 31.2 203.273437
 L 31.2 196.273437 
 L 11.2 196.273437 
 z
-" style="fill: #ffa500; stroke: #ffa500; stroke-linejoin: miter"/>
+" style="fill: #ffdab9; stroke: #ffdab9; stroke-linejoin: miter"/>
     </g>
     <g id="text_13">
      <!-- 12_l2_cache=128kB, dec_width=8, num_ALU=16 -->
@@ -1371,7 +1371,7 @@ L 31.2 218.229687
 L 31.2 211.229687 
 L 11.2 211.229687 
 z
-" style="fill: #fffacd; stroke: #fffacd; stroke-linejoin: miter"/>
+" style="fill: #ffb6c1; stroke: #ffb6c1; stroke-linejoin: miter"/>
     </g>
     <g id="text_14">
      <!-- 13_l2_cache=128kB, dec_width=8, num_ALU=2 -->
@@ -1425,7 +1425,7 @@ L 31.2 233.185937
 L 31.2 226.185937 
 L 11.2 226.185937 
 z
-" style="fill: #40e0d0; stroke: #40e0d0; stroke-linejoin: miter"/>
+" style="fill: #8b4513; stroke: #8b4513; stroke-linejoin: miter"/>
     </g>
     <g id="text_15">
      <!-- 14_l2_cache=128kB, dec_width=8, num_ALU=4 -->
@@ -1479,7 +1479,7 @@ L 31.2 248.142187
 L 31.2 241.142187 
 L 11.2 241.142187 
 z
-" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
+" style="fill: #808000; stroke: #808000; stroke-linejoin: miter"/>
     </g>
     <g id="text_16">
      <!-- 15_l2_cache=128kB, dec_width=8, num_ALU=8 -->
@@ -1533,7 +1533,7 @@ L 326.56875 23.798437
 L 326.56875 16.798437 
 L 306.56875 16.798437 
 z
-" style="fill: #f0e68c; stroke: #f0e68c; stroke-linejoin: miter"/>
+" style="fill: #708090; stroke: #708090; stroke-linejoin: miter"/>
     </g>
     <g id="text_17">
      <!-- 16_l2_cache=1MB, dec_width=1, num_ALU=16 -->
@@ -1604,7 +1604,7 @@ L 326.56875 38.754687
 L 326.56875 31.754687 
 L 306.56875 31.754687 
 z
-" style="fill: #ff00ff; stroke: #ff00ff; stroke-linejoin: miter"/>
+" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
     </g>
     <g id="text_18">
      <!-- 17_l2_cache=1MB, dec_width=1, num_ALU=2 -->
@@ -1656,7 +1656,7 @@ L 326.56875 53.710937
 L 326.56875 46.710937 
 L 306.56875 46.710937 
 z
-" style="fill: #ffdab9; stroke: #ffdab9; stroke-linejoin: miter"/>
+" style="fill: #808080; stroke: #808080; stroke-linejoin: miter"/>
     </g>
     <g id="text_19">
      <!-- 18_l2_cache=1MB, dec_width=1, num_ALU=4 -->
@@ -1708,7 +1708,7 @@ L 326.56875 68.667187
 L 326.56875 61.667187 
 L 306.56875 61.667187 
 z
-" style="fill: #d3d3d3; stroke: #d3d3d3; stroke-linejoin: miter"/>
+" style="fill: #c0c0c0; stroke: #c0c0c0; stroke-linejoin: miter"/>
     </g>
     <g id="text_20">
      <!-- 19_l2_cache=1MB, dec_width=1, num_ALU=8 -->
@@ -1760,7 +1760,7 @@ L 326.56875 83.623437
 L 326.56875 76.623437 
 L 306.56875 76.623437 
 z
-" style="fill: #87ceeb; stroke: #87ceeb; stroke-linejoin: miter"/>
+" style="fill: #006400; stroke: #006400; stroke-linejoin: miter"/>
     </g>
     <g id="text_21">
      <!-- 20_l2_cache=1MB, dec_width=2, num_ALU=16 -->
@@ -1813,7 +1813,7 @@ L 326.56875 98.579687
 L 326.56875 91.579687 
 L 306.56875 91.579687 
 z
-" style="fill: #ff0000; stroke: #ff0000; stroke-linejoin: miter"/>
+" style="fill: #f0e68c; stroke: #f0e68c; stroke-linejoin: miter"/>
     </g>
     <g id="text_22">
      <!-- 21_l2_cache=1MB, dec_width=2, num_ALU=2 -->
@@ -1865,7 +1865,7 @@ L 326.56875 113.535937
 L 326.56875 106.535937 
 L 306.56875 106.535937 
 z
-" style="fill: #f08080; stroke: #f08080; stroke-linejoin: miter"/>
+" style="fill: #ff69b4; stroke: #ff69b4; stroke-linejoin: miter"/>
     </g>
     <g id="text_23">
      <!-- 22_l2_cache=1MB, dec_width=2, num_ALU=4 -->
@@ -1917,7 +1917,7 @@ L 326.56875 128.492187
 L 326.56875 121.492187 
 L 306.56875 121.492187 
 z
-" style="fill: #ffb6c1; stroke: #ffb6c1; stroke-linejoin: miter"/>
+" style="fill: #ffff00; stroke: #ffff00; stroke-linejoin: miter"/>
     </g>
     <g id="text_24">
      <!-- 23_l2_cache=1MB, dec_width=2, num_ALU=8 -->
@@ -1969,7 +1969,7 @@ L 326.56875 143.448437
 L 326.56875 136.448437 
 L 306.56875 136.448437 
 z
-" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
+" style="fill: #fffacd; stroke: #fffacd; stroke-linejoin: miter"/>
     </g>
     <g id="text_25">
      <!-- 24_l2_cache=1MB, dec_width=4, num_ALU=16 -->
@@ -2022,7 +2022,7 @@ L 326.56875 158.404687
 L 326.56875 151.404687 
 L 306.56875 151.404687 
 z
-" style="fill: #00ffff; stroke: #00ffff; stroke-linejoin: miter"/>
+" style="fill: #191970; stroke: #191970; stroke-linejoin: miter"/>
     </g>
     <g id="text_26">
      <!-- 25_l2_cache=1MB, dec_width=4, num_ALU=2 -->
@@ -2074,7 +2074,7 @@ L 326.56875 173.360937
 L 326.56875 166.360937 
 L 306.56875 166.360937 
 z
-" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
+" style="fill: #000080; stroke: #000080; stroke-linejoin: miter"/>
     </g>
     <g id="text_27">
      <!-- 26_l2_cache=1MB, dec_width=4, num_ALU=4 -->
@@ -2126,7 +2126,7 @@ L 326.56875 188.317187
 L 326.56875 181.317187 
 L 306.56875 181.317187 
 z
-" style="fill: #228b22; stroke: #228b22; stroke-linejoin: miter"/>
+" style="fill: #2e8b57; stroke: #2e8b57; stroke-linejoin: miter"/>
     </g>
     <g id="text_28">
      <!-- 27_l2_cache=1MB, dec_width=4, num_ALU=8 -->
@@ -2178,7 +2178,7 @@ L 326.56875 203.273437
 L 326.56875 196.273437 
 L 306.56875 196.273437 
 z
-" style="fill: #32cd32; stroke: #32cd32; stroke-linejoin: miter"/>
+" style="fill: #4b0082; stroke: #4b0082; stroke-linejoin: miter"/>
     </g>
     <g id="text_29">
      <!-- 28_l2_cache=1MB, dec_width=8, num_ALU=16 -->
@@ -2231,7 +2231,7 @@ L 326.56875 218.229687
 L 326.56875 211.229687 
 L 306.56875 211.229687 
 z
-" style="fill: #87ceeb; stroke: #87ceeb; stroke-linejoin: miter"/>
+" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
     </g>
     <g id="text_30">
      <!-- 29_l2_cache=1MB, dec_width=8, num_ALU=2 -->
@@ -2283,7 +2283,7 @@ L 326.56875 233.185937
 L 326.56875 226.185937 
 L 306.56875 226.185937 
 z
-" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
+" style="fill: #ffa500; stroke: #ffa500; stroke-linejoin: miter"/>
     </g>
     <g id="text_31">
      <!-- 30_l2_cache=1MB, dec_width=8, num_ALU=4 -->
@@ -2335,7 +2335,7 @@ L 326.56875 248.142187
 L 326.56875 241.142187 
 L 306.56875 241.142187 
 z
-" style="fill: #a52a2a; stroke: #a52a2a; stroke-linejoin: miter"/>
+" style="fill: #0000ff; stroke: #0000ff; stroke-linejoin: miter"/>
     </g>
     <g id="text_32">
      <!-- 31_l2_cache=1MB, dec_width=8, num_ALU=8 -->
@@ -2387,7 +2387,7 @@ L 612.05 23.798437
 L 612.05 16.798437 
 L 592.05 16.798437 
 z
-" style="fill: #2e8b57; stroke: #2e8b57; stroke-linejoin: miter"/>
+" style="fill: #800080; stroke: #800080; stroke-linejoin: miter"/>
     </g>
     <g id="text_33">
      <!-- 32_l2_cache=256kB, dec_width=1, num_ALU=16 -->
@@ -2442,7 +2442,7 @@ L 612.05 38.754687
 L 612.05 31.754687 
 L 592.05 31.754687 
 z
-" style="fill: #d3d3d3; stroke: #d3d3d3; stroke-linejoin: miter"/>
+" style="fill: #ffb6c1; stroke: #ffb6c1; stroke-linejoin: miter"/>
     </g>
     <g id="text_34">
      <!-- 33_l2_cache=256kB, dec_width=1, num_ALU=2 -->
@@ -2496,7 +2496,7 @@ L 612.05 53.710937
 L 612.05 46.710937 
 L 592.05 46.710937 
 z
-" style="fill: #708090; stroke: #708090; stroke-linejoin: miter"/>
+" style="fill: #008000; stroke: #008000; stroke-linejoin: miter"/>
     </g>
     <g id="text_35">
      <!-- 34_l2_cache=256kB, dec_width=1, num_ALU=4 -->
@@ -2550,7 +2550,7 @@ L 612.05 68.667187
 L 612.05 61.667187 
 L 592.05 61.667187 
 z
-" style="fill: #9400d3; stroke: #9400d3; stroke-linejoin: miter"/>
+" style="stroke: #000000; stroke-linejoin: miter"/>
     </g>
     <g id="text_36">
      <!-- 35_l2_cache=256kB, dec_width=1, num_ALU=8 -->
@@ -2604,7 +2604,7 @@ L 612.05 83.623437
 L 612.05 76.623437 
 L 592.05 76.623437 
 z
-" style="fill: #4682b4; stroke: #4682b4; stroke-linejoin: miter"/>
+" style="fill: #87ceeb; stroke: #87ceeb; stroke-linejoin: miter"/>
     </g>
     <g id="text_37">
      <!-- 36_l2_cache=256kB, dec_width=2, num_ALU=16 -->
@@ -2659,7 +2659,7 @@ L 612.05 98.579687
 L 612.05 91.579687 
 L 592.05 91.579687 
 z
-" style="fill: #e6e6fa; stroke: #e6e6fa; stroke-linejoin: miter"/>
+" style="fill: #00bfff; stroke: #00bfff; stroke-linejoin: miter"/>
     </g>
     <g id="text_38">
      <!-- 37_l2_cache=256kB, dec_width=2, num_ALU=2 -->
@@ -2713,7 +2713,7 @@ L 612.05 113.535937
 L 612.05 106.535937 
 L 592.05 106.535937 
 z
-" style="fill: #4169e1; stroke: #4169e1; stroke-linejoin: miter"/>
+" style="fill: #40e0d0; stroke: #40e0d0; stroke-linejoin: miter"/>
     </g>
     <g id="text_39">
      <!-- 38_l2_cache=256kB, dec_width=2, num_ALU=4 -->
@@ -2767,7 +2767,7 @@ L 612.05 128.492187
 L 612.05 121.492187 
 L 592.05 121.492187 
 z
-" style="fill: #000080; stroke: #000080; stroke-linejoin: miter"/>
+" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
     </g>
     <g id="text_40">
      <!-- 39_l2_cache=256kB, dec_width=2, num_ALU=8 -->
@@ -2821,7 +2821,7 @@ L 612.05 143.448437
 L 612.05 136.448437 
 L 592.05 136.448437 
 z
-" style="fill: #e6e6fa; stroke: #e6e6fa; stroke-linejoin: miter"/>
+" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
     </g>
     <g id="text_41">
      <!-- 40_l2_cache=256kB, dec_width=4, num_ALU=16 -->
@@ -2876,7 +2876,7 @@ L 612.05 158.404687
 L 612.05 151.404687 
 L 592.05 151.404687 
 z
-" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
+" style="fill: #4682b4; stroke: #4682b4; stroke-linejoin: miter"/>
     </g>
     <g id="text_42">
      <!-- 41_l2_cache=256kB, dec_width=4, num_ALU=2 -->
@@ -2930,7 +2930,7 @@ L 612.05 173.360937
 L 612.05 166.360937 
 L 592.05 166.360937 
 z
-" style="fill: #696969; stroke: #696969; stroke-linejoin: miter"/>
+" style="fill: #e6e6fa; stroke: #e6e6fa; stroke-linejoin: miter"/>
     </g>
     <g id="text_43">
      <!-- 42_l2_cache=256kB, dec_width=4, num_ALU=4 -->
@@ -2984,7 +2984,7 @@ L 612.05 188.317187
 L 612.05 181.317187 
 L 592.05 181.317187 
 z
-" style="fill: #fffacd; stroke: #fffacd; stroke-linejoin: miter"/>
+" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
     </g>
     <g id="text_44">
      <!-- 43_l2_cache=256kB, dec_width=4, num_ALU=8 -->
@@ -3038,7 +3038,7 @@ L 612.05 203.273437
 L 612.05 196.273437 
 L 592.05 196.273437 
 z
-" style="fill: #20b2aa; stroke: #20b2aa; stroke-linejoin: miter"/>
+" style="fill: #ffffff; stroke: #ffffff; stroke-linejoin: miter"/>
     </g>
     <g id="text_45">
      <!-- 44_l2_cache=256kB, dec_width=8, num_ALU=16 -->
@@ -3093,7 +3093,7 @@ L 612.05 218.229687
 L 612.05 211.229687 
 L 592.05 211.229687 
 z
-" style="fill: #8b4513; stroke: #8b4513; stroke-linejoin: miter"/>
+" style="fill: #20b2aa; stroke: #20b2aa; stroke-linejoin: miter"/>
     </g>
     <g id="text_46">
      <!-- 45_l2_cache=256kB, dec_width=8, num_ALU=2 -->
@@ -3147,7 +3147,7 @@ L 612.05 233.185937
 L 612.05 226.185937 
 L 592.05 226.185937 
 z
-" style="fill: #00c957; stroke: #00c957; stroke-linejoin: miter"/>
+" style="fill: #e6e6fa; stroke: #e6e6fa; stroke-linejoin: miter"/>
     </g>
     <g id="text_47">
      <!-- 46_l2_cache=256kB, dec_width=8, num_ALU=4 -->
@@ -3201,7 +3201,7 @@ L 612.05 248.142187
 L 612.05 241.142187 
 L 592.05 241.142187 
 z
-" style="fill: #808000; stroke: #808000; stroke-linejoin: miter"/>
+" style="fill: #ff00ff; stroke: #ff00ff; stroke-linejoin: miter"/>
     </g>
     <g id="text_48">
      <!-- 47_l2_cache=256kB, dec_width=8, num_ALU=8 -->
@@ -3255,7 +3255,7 @@ L 907.41875 23.798437
 L 907.41875 16.798437 
 L 887.41875 16.798437 
 z
-" style="fill: #00ff00; stroke: #00ff00; stroke-linejoin: miter"/>
+" style="fill: #00ffff; stroke: #00ffff; stroke-linejoin: miter"/>
     </g>
     <g id="text_49">
      <!-- 48_l2_cache=512kB, dec_width=1, num_ALU=16 -->
@@ -3364,7 +3364,7 @@ L 907.41875 53.710937
 L 907.41875 46.710937 
 L 887.41875 46.710937 
 z
-" style="fill: #008080; stroke: #008080; stroke-linejoin: miter"/>
+" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
     </g>
     <g id="text_51">
      <!-- 50_l2_cache=512kB, dec_width=1, num_ALU=4 -->
@@ -3418,7 +3418,7 @@ L 907.41875 68.667187
 L 907.41875 61.667187 
 L 887.41875 61.667187 
 z
-" style="fill: #00bfff; stroke: #00bfff; stroke-linejoin: miter"/>
+" style="fill: #696969; stroke: #696969; stroke-linejoin: miter"/>
     </g>
     <g id="text_52">
      <!-- 51_l2_cache=512kB, dec_width=1, num_ALU=8 -->
@@ -3472,7 +3472,7 @@ L 907.41875 83.623437
 L 907.41875 76.623437 
 L 887.41875 76.623437 
 z
-" style="fill: #00bfff; stroke: #00bfff; stroke-linejoin: miter"/>
+" style="fill: #f08080; stroke: #f08080; stroke-linejoin: miter"/>
     </g>
     <g id="text_53">
      <!-- 52_l2_cache=512kB, dec_width=2, num_ALU=16 -->
@@ -3527,7 +3527,7 @@ L 907.41875 98.579687
 L 907.41875 91.579687 
 L 887.41875 91.579687 
 z
-" style="fill: #a9a9a9; stroke: #a9a9a9; stroke-linejoin: miter"/>
+" style="fill: #ffd700; stroke: #ffd700; stroke-linejoin: miter"/>
     </g>
     <g id="text_54">
      <!-- 53_l2_cache=512kB, dec_width=2, num_ALU=2 -->
@@ -3581,7 +3581,7 @@ L 907.41875 113.535937
 L 907.41875 106.535937 
 L 887.41875 106.535937 
 z
-" style="fill: #ffb6c1; stroke: #ffb6c1; stroke-linejoin: miter"/>
+" style="fill: #228b22; stroke: #228b22; stroke-linejoin: miter"/>
     </g>
     <g id="text_55">
      <!-- 54_l2_cache=512kB, dec_width=2, num_ALU=4 -->
@@ -3635,7 +3635,7 @@ L 907.41875 128.492187
 L 907.41875 121.492187 
 L 887.41875 121.492187 
 z
-" style="fill: #4b0082; stroke: #4b0082; stroke-linejoin: miter"/>
+" style="fill: #32cd32; stroke: #32cd32; stroke-linejoin: miter"/>
     </g>
     <g id="text_56">
      <!-- 55_l2_cache=512kB, dec_width=2, num_ALU=8 -->
@@ -3689,7 +3689,7 @@ L 907.41875 143.448437
 L 907.41875 136.448437 
 L 887.41875 136.448437 
 z
-" style="fill: #ff69b4; stroke: #ff69b4; stroke-linejoin: miter"/>
+" style="fill: #9400d3; stroke: #9400d3; stroke-linejoin: miter"/>
     </g>
     <g id="text_57">
      <!-- 56_l2_cache=512kB, dec_width=4, num_ALU=16 -->
@@ -3744,7 +3744,7 @@ L 907.41875 158.404687
 L 907.41875 151.404687 
 L 887.41875 151.404687 
 z
-" style="fill: #ff8c00; stroke: #ff8c00; stroke-linejoin: miter"/>
+" style="fill: #4169e1; stroke: #4169e1; stroke-linejoin: miter"/>
     </g>
     <g id="text_58">
      <!-- 57_l2_cache=512kB, dec_width=4, num_ALU=2 -->
@@ -3798,7 +3798,7 @@ L 907.41875 173.360937
 L 907.41875 166.360937 
 L 887.41875 166.360937 
 z
-" style="fill: #008000; stroke: #008000; stroke-linejoin: miter"/>
+" style="fill: #32cd32; stroke: #32cd32; stroke-linejoin: miter"/>
     </g>
     <g id="text_59">
      <!-- 58_l2_cache=512kB, dec_width=4, num_ALU=4 -->
@@ -3906,7 +3906,7 @@ L 907.41875 203.273437
 L 907.41875 196.273437 
 L 887.41875 196.273437 
 z
-" style="fill: #ff69b4; stroke: #ff69b4; stroke-linejoin: miter"/>
+" style="fill: #d3d3d3; stroke: #d3d3d3; stroke-linejoin: miter"/>
     </g>
     <g id="text_61">
      <!-- 60_l2_cache=512kB, dec_width=8, num_ALU=16 -->
@@ -3961,7 +3961,7 @@ L 907.41875 218.229687
 L 907.41875 211.229687 
 L 887.41875 211.229687 
 z
-" style="fill: #48d1cc; stroke: #48d1cc; stroke-linejoin: miter"/>
+" style="fill: #ff8c00; stroke: #ff8c00; stroke-linejoin: miter"/>
     </g>
     <g id="text_62">
      <!-- 61_l2_cache=512kB, dec_width=8, num_ALU=2 -->
@@ -4015,7 +4015,7 @@ L 907.41875 233.185937
 L 907.41875 226.185937 
 L 887.41875 226.185937 
 z
-" style="fill: #c0c0c0; stroke: #c0c0c0; stroke-linejoin: miter"/>
+" style="fill: #00c957; stroke: #00c957; stroke-linejoin: miter"/>
     </g>
     <g id="text_63">
      <!-- 62_l2_cache=512kB, dec_width=8, num_ALU=4 -->
@@ -4069,7 +4069,7 @@ L 907.41875 248.142187
 L 907.41875 241.142187 
 L 887.41875 241.142187 
 z
-" style="fill: #90ee90; stroke: #90ee90; stroke-linejoin: miter"/>
+" style="fill: #48d1cc; stroke: #48d1cc; stroke-linejoin: miter"/>
     </g>
     <g id="text_64">
      <!-- 63_l2_cache=512kB, dec_width=8, num_ALU=8 -->
